@@ -1,2 +1,2 @@
 # APCS_projects
-All my projects for GS AP CS class, Travis Ortegero.
+To keep myself in track, here are all my projects for Travis Ortegero's CS courses, AP CS and Independent CS
